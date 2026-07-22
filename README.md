@@ -6,7 +6,7 @@
 
 
 
-🌐 https://your-live-app-link.streamlit.app
+🌐 https://customerchurnprediction-jjwbdmdbk2p638sjxrc7zc.streamlit.app/
 
 
 
